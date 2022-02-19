@@ -7,4 +7,4 @@ Step 4: Order the pizza
 Step 5: Wait for delivery
 Step 6: Greet pizza delivery driver
 Step 7: See Step 4b. if neccessary     
-Step 8: Tip the delivery driver
+Step 8: Tip the delivery driver $5
